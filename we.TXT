@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="spotify.css">
+</head>
+<body>
+    <header>
+        <div class="hindi">????(?????)</div>
+        <div class="x">X</div>
+    </header>
+    <section class="section-class">
+        <div class="logo"></div>
+        <div class="hide-nav">=</div>
+        <nav>
+            <ul>
+                <li><a href="">Premium</a></li>
+                <li><a href="">Support</a></li>
+                <li><a href="">Download</a></li>
+                <li><a href="">|</a></li>
+                <li><a href="">Sign Up</a></li>
+                <li><a href="">Log in</a></li>
+            </ul>
+        </nav>
+    </section>
+    <section class="section-sec-class">
+        <div class="mob-section">
+            <div class="mic"></div>
+            <div class="mob-img"></div>
+        </div>
+        <div class="mob-text">
+            <div class="mob-text-first">
+                <p>Play millions of songs</p>
+                <p>and podcasts, for free</p>
+            </div>
+        <form action="">
+            <button>GET SPOTIFY FREE</button>
+        </form>
+        </div>
+    </section>
+    <section class="section-third-class">
+        <div class="why-spotify">Why Spotify?</div>
+        <div class="spotify-text-block">
+
+            <div class="mob-spotify-res">
+                <div class="play-buttom"></div>
+                <div class="ipod-spotify-res">
+                    <div class="text-bold-block">Play your favorites.</div>
+                    <div class="text-bold-block-first">Listen to the songs you love, and</div>
+                    <div class="text-bold-block-sec">discover new music and</div>
+                    <div class="text-bold-block-third">podcasts.</div>
+                </div>
+            </div>
+            <div class="mob-spotify-res">
+                <div class="playlist-buttom"></div>
+                <div class="ipod-spotify-res">
+                    <div class="text-bold-block">Playlists made easy.</div>
+                    <div class="text-bold-block-first">We'll help you make playlists. Or </div>
+                    <div class="text-bold-block-sec">enjoy playlists made by music</div>
+                    <div class="text-bold-block-third">experts.</div>
+                </div>
+            </div>
+            <div class="mob-spotify-res">
+                <div class="heart-buttom"></div>
+                <div class="ipod-spotify-res">
+                    <div class="text-bold-block">Make it yours.</div>
+                    <div class="text-bold-block-first">Tell us what you like, and we'll</div>
+                    <div class="text-bold-block-sec">recommend music for you.</div>
+                </div>
+            </div>
+            <div class="mob-spotify-res">
+                <div class="data-buttom"></div>
+                <div class="ipod-spotify-res">
+                    <div class="text-bold-block">Save mobile data.</div>
+                    <div class="text-bold-block-first">To use less data when you play</div>
+                    <div class="text-bold-block-sec">music, turn on Data Saver in </div>
+                    <div class="text-bold-block-third">Settings.</div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="section-for-class">
+        <div class="spotify-sec-mob">
+            <div class="mic-sec"></div>
+            <div class="mob-sec"></div>
+        </div>
+        <div>It's free.</div>
+        <div>No credit card required.</div>
+    </section>
+    <section class="section-five-class">
+        <div class="got-qn-text">Got questions?</div>
+        <div class="details-text">
+        <details>
+            <summary>How do I create a playlist?</summary>
+            <br>
+            <br>
+            <P>Playlists are a great way to save collections of music, either for your own listening or to share.</P>
+            <br>
+            <P>To create one:</P>
+            <br>
+            <ol>
+                <li> Tap Your Library.</li>
+                <li> Tap <span>CREATE.</span></li>
+                <li>Give your playlist a name.</li>
+                <li>Start adding songs (and we'll help you along).</li>
+            </ol>
+        </details>
+        <details>
+            <summary>How do I activate Data Saver mode?</summary>
+            <br>
+            <br>
+            <ol>
+                <li> Tap <span>Home.</span></li>
+                <li>Tap <span> Settings.</span></li>
+                <li>Tap <span> Data Saver.</span></li>
+                <li>Switch on Data Saver.</li>
+            </ol>
+        </details>
+        <details>
+            <summary>Is it only possible to shuffle play music?</summary>
+            <br><br>
+            <p>Any playlist with the shuffle icon will play on shuffle.</p>
+            <p>Some playlists won't have the shuffle icon, so you can tap any song to play it.</p>
+        </details>
+        <details>
+            <summary>Where can I find Podcasts?</summary>
+            <br><br>
+            <p>Tap <span> Search</span>. Under <span> Browse All </span>, tap Podcasts.</p>
+        </details>
+    </div>
+    </section>
+    <section class="last-section">
+        <div class="ready">Ready? Let’s play.</div>
+    <form action="">    
+        <button>GET SPOTIFY FREE</button>
+    </form>    
+    </section>
+    <footer>
+        <section class="footer-first-section">
+            <div class="logo"></div>  
+            <div  class="container">
+                <h6>Company</h6>
+                <a href="">About</a>
+                <a href="">Jobs</a>
+                <a href="">For the Record</a>
+            </div>
+            <div class="container">
+                <h6>Communities</h6>
+                <a href="">For Artists</a>
+                <a href="">Developers</a>
+                <a href="">Advertising</a>
+                <a href="">Investors</a>
+                <a href="">Vendors</a>
+            </div>
+            <div class="container">
+                <h6>Useful links</h6>
+                <a href="">Support</a>
+                <a href="">Web Player</a>
+                <a href="">Free Mobile App</a>
+            </div>  
+            <div class="container2">
+                <div class="insta"></div>
+                <div class="twiter"></div>
+                <div class="facebook"></div>
+            </div>
+        </section>
+        <section class="footer-sec-section">
+            <div class="end-footer">
+                <a href="">Legal</a>
+                <a href="">Privacy Center</a>
+                <a href="">Privacy Policy</a>
+                <a href="">Cookies</a>
+                <a href="">About Ads</a>
+            </div>
+            <div class="con">
+                <div class="global">
+                    <div class="global-logo"></div>
+                    <a href="">India(English)</a>
+                </div>
+                <p class="p-text">© 2022 Spotify AB</p>
+            </div>
+        </section>
+    </footer>
+</body>
+
+</html>
